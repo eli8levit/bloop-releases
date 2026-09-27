@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Bloop</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 27 Sep 2026 23:31:42 +0300</pubDate>
+            <link>https://bloopit.app</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/eli8levit/bloop-releases/releases/tag/v0.1.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://eli8levit.github.io/bloop-releases/Bloop-0.1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/eli8levit/bloop-releases/releases/download/v0.1.0/Bloop-0.1.0.zip" length="5947596" type="application/octet-stream" sparkle:edSignature="z2NAxHDnFHjPU4te58f4cDGmtcNI7xBK7I/9z99iVglXyOnsrp3DFnHhhWyzb1jDKnLQery9kh7fNdwqvv/HDw=="/>
+        </item>
+    </channel>
+</rss>
